@@ -13,6 +13,8 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 
 * Use cosine distance between pca features to compare the query image to 5 number of closest images and return them as thumbnails
 
-#Adding Custom Images to the dataset:
+# Adding Custom Images to the dataset:
 
 Adding custom images is as easy as creating a folder with class name in the extracted dataset folder and adding images of that class
+
+[Run in Colab](https://colab.research.google.com/github/krishnac7/Reverse_image_search/blob/master/ReverseImageSearch.ipynb)
