@@ -17,4 +17,4 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 
 Adding custom images is as easy as creating a folder with class name in the extracted dataset folder and adding images of that class
 
-[Run in Colab](https://colab.research.google.com/github/krishnac7/Reverse_image_search/blob/master/ReverseImageSearch.ipynb)
+[Run in Colab](https://colab.research.google.com/github/krishnac7/Reverse_image_search/blob/master/ReverseImageSearch.ipynb){:target="_blank"}
