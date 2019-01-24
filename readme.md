@@ -1,6 +1,6 @@
 # Feature Extraction and Reverse Image Search on Caltech-101 Dataset
 
-This notebook will guide you throught the process of analysing an image dataset using a pre-trained convolution network (VGG16) and extracting feature vectors for each image
+This notebook will guide you through the process of analyzing an image dataset using a pre-trained convolution network (VGG16) and extracting feature vectors for each image
 
 Post analysis we try to demonstrate 'reverse image search' one of the widely popular applications of image analysis. The approach we take is :
 
