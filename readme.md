@@ -28,9 +28,14 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 > Note: When creating your Object Storage service, select the ``Free`` storage type in order to avoid having to pay an upgrade fee.
 
 * Create a new Project in Watson Studio (New --> Standard project)
+![Creating a project](./res/createProject.gif)
 * Create a GPU Environment (Environment --> New Environment --> GPU Beta)
+![Creating GPU Environment](./res/createEnv.gif)
 * Create a new Notebook (Add to project --> Notebook --> from url)
 * Provision the notebook on newly created GPU Environment
+![GPU Notebook](./res/createNotebook.gif)
+* Stop the Environment Post usage
+![Stop environment](./res/stopEnv.gif)
 
 
 # Run Locally:
