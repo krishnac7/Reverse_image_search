@@ -22,7 +22,11 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 
 # Deploy on IBM Cloud:
 
-* Create New Watson Studio Service instance (Catalog --> Watson Studio)
+
+* Sign up for IBM's [Watson Studio](https://dataplatform.cloud.ibm.com/). By creating a project in Watson Studio a free tier ``Object Storage`` service will be created in your IBM Cloud account. Take note of your service names as you will need to select them in the following steps.
+
+> Note: When creating your Object Storage service, select the ``Free`` storage type in order to avoid having to pay an upgrade fee.
+
 * Create a new Project in Watson Studio (New --> Standard project)
 * Create a GPU Environment (Environment --> New Environment --> GPU Beta)
 * Create a new Notebook (Add to project --> Notebook --> from url)
