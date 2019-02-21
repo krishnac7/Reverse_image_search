@@ -35,6 +35,7 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 * Provision the notebook on newly created GPU Environment
 ![GPU Notebook](./res/createNotebook.gif)
 * Stop the Environment Post usage
+
 ![Stop environment](./res/stopEnv.gif)
 
 
