@@ -25,6 +25,8 @@ Post analysis we try to demonstrate 'reverse image search' one of the widely pop
 
 * Sign up for IBM's [Watson Studio](https://dataplatform.cloud.ibm.com/). By creating a project in Watson Studio a free tier ``Object Storage`` service will be created in your IBM Cloud account. Take note of your service names as you will need to select them in the following steps.
 
+* If you are running it on cpu and have decided to reduce the image dataset size you may end up with reduced prediction accuracy
+
 > Note: When creating your Object Storage service, select the ``Free`` storage type in order to avoid having to pay an upgrade fee.
 
 * Create a new Project in Watson Studio (New --> Standard project)
